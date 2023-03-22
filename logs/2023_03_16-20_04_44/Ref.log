@@ -1,0 +1,516 @@
+Hit Ctrl-C to quit
+EVENT: (1280) (2:1678968290,22907) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2100 registered to port 0 slot 0
+EVENT: (1280) (2:1678968290,22947) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2101 registered to port 0 slot 1
+EVENT: (1280) (2:1678968290,22955) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2102 registered to port 0 slot 2
+EVENT: (1280) (2:1678968290,22959) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2200 registered to port 1 slot 3
+EVENT: (1280) (2:1678968290,22962) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2201 registered to port 1 slot 4
+EVENT: (1280) (2:1678968290,22966) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2202 registered to port 1 slot 5
+EVENT: (1280) (2:1678968290,22969) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2300 registered to port 2 slot 6
+EVENT: (1280) (2:1678968290,22972) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2301 registered to port 2 slot 7
+EVENT: (1280) (2:1678968290,22976) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2302 registered to port 2 slot 8
+EVENT: (1280) (2:1678968290,22979) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2400 registered to port 3 slot 9
+EVENT: (1280) (2:1678968290,22982) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2401 registered to port 3 slot 10
+EVENT: (1280) (2:1678968290,22986) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2402 registered to port 3 slot 11
+EVENT: (1280) (2:1678968290,22989) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2500 registered to port 4 slot 12
+EVENT: (1280) (2:1678968290,22993) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2501 registered to port 4 slot 13
+EVENT: (1280) (2:1678968290,22996) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2502 registered to port 4 slot 14
+EVENT: (1280) (2:1678968290,23000) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x500 registered to port 5 slot 15
+EVENT: (1280) (2:1678968290,23003) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x501 registered to port 5 slot 16
+EVENT: (1280) (2:1678968290,23007) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x502 registered to port 5 slot 17
+EVENT: (1280) (2:1678968290,23010) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x503 registered to port 5 slot 18
+EVENT: (1280) (2:1678968290,23014) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x600 registered to port 6 slot 19
+EVENT: (1280) (2:1678968290,23017) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x601 registered to port 6 slot 20
+EVENT: (1280) (2:1678968290,23020) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x602 registered to port 6 slot 21
+EVENT: (1280) (2:1678968290,23024) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x603 registered to port 6 slot 22
+EVENT: (1280) (2:1678968290,23027) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x604 registered to port 6 slot 23
+EVENT: (1280) (2:1678968290,23031) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x605 registered to port 6 slot 24
+EVENT: (1280) (2:1678968290,23034) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x606 registered to port 6 slot 25
+EVENT: (1280) (2:1678968290,23038) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x607 registered to port 6 slot 26
+EVENT: (1280) (2:1678968290,23041) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe00 registered to port 7 slot 27
+EVENT: (1280) (2:1678968290,23045) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe01 registered to port 7 slot 28
+EVENT: (1280) (2:1678968290,23048) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb00 registered to port 8 slot 29
+EVENT: (1280) (2:1678968290,23051) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb02 registered to port 8 slot 30
+EVENT: (1280) (2:1678968290,23055) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb03 registered to port 8 slot 31
+EVENT: (1280) (2:1678968290,23058) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x700 registered to port 9 slot 32
+EVENT: (1280) (2:1678968290,23062) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x701 registered to port 9 slot 33
+EVENT: (1280) (2:1678968290,23065) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x702 registered to port 9 slot 34
+EVENT: (1280) (2:1678968290,23077) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x800 registered to port 10 slot 35
+EVENT: (1280) (2:1678968290,23081) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x801 registered to port 10 slot 36
+EVENT: (1280) (2:1678968290,23084) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x802 registered to port 10 slot 37
+EVENT: (1280) (2:1678968290,23087) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x803 registered to port 10 slot 38
+EVENT: (1280) (2:1678968290,23091) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x804 registered to port 10 slot 39
+EVENT: (1280) (2:1678968290,23094) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x805 registered to port 10 slot 40
+EVENT: (1280) (2:1678968290,23098) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2000 registered to port 11 slot 41
+EVENT: (1280) (2:1678968290,23101) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2001 registered to port 11 slot 42
+EVENT: (1280) (2:1678968290,23105) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2002 registered to port 11 slot 43
+EVENT: (1280) (2:1678968290,23108) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xa00 registered to port 12 slot 44
+EVENT: (1280) (2:1678968290,23112) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xd00 registered to port 13 slot 45
+EVENT: (1280) (2:1678968290,23116) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4700 registered to port 14 slot 46
+EVENT: (1280) (2:1678968290,23119) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4701 registered to port 14 slot 47
+EVENT: (1280) (2:1678968290,23123) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4702 registered to port 14 slot 48
+EVENT: (1280) (2:1678968290,23126) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4703 registered to port 14 slot 49
+EVENT: (1280) (2:1678968290,23130) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2600 registered to port 15 slot 50
+EVENT: (1280) (2:1678968290,23133) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2601 registered to port 15 slot 51
+EVENT: (1280) (2:1678968290,23137) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2602 registered to port 15 slot 52
+EVENT: (1280) (2:1678968290,23140) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2603 registered to port 15 slot 53
+EVENT: (1280) (2:1678968290,23144) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260a registered to port 15 slot 54
+EVENT: (1280) (2:1678968290,23147) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260b registered to port 15 slot 55
+EVENT: (1280) (2:1678968290,23150) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260c registered to port 15 slot 56
+EVENT: (1280) (2:1678968290,23154) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260d registered to port 15 slot 57
+EVENT: (1280) (2:1678968290,23157) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b00 registered to port 16 slot 58
+EVENT: (1280) (2:1678968290,23161) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b01 registered to port 16 slot 59
+EVENT: (3335) (2:1678968290,23186) ACTIVITY_HI: (prmDb) PrmFileLoadComplete : Parameter file load completed. Read 4 records.
+EVENT: (3328) (2:1678968290,23210) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4700 not found
+EVENT: (3328) (2:1678968290,23218) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4701 not found
+EVENT: (3328) (2:1678968290,23222) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2600 not found
+EVENT: (3328) (2:1678968290,23225) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2601 not found
+[WARNING] High task priority of 140 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_blockDrv. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_chanTlm. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 101 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdDisp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdSeq. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_ReceiveTask. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_control. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+Connected to 0.0.0.0:50000 as a tcp client
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_eventLogger. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileDownlink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileManager. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileUplink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_pingRcvr. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_prmDb. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 120 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup1Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 119 being clamped to 99
+EVENT: (512) (2:1678968290,26261) DIAGNOSTIC: (rateGroup1Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup2Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 118 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup3Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+EVENT: (768) (2:1678968290,26534) DIAGNOSTIC: (rateGroup2Comp) RateGroupStarted : Rate group started.
+EVENT: (1024) (2:1678968290,26678) DIAGNOSTIC: (rateGroup3Comp) RateGroupStarted : Rate group started.
+EVENT: (1281) (2:1678968302,158976) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0xe00 dispatched to port 7
+EVENT: (3584) (2:1678968302,159033) ACTIVITY_LO: (control) START_CONTROL : start control
+EVENT: (21248) (2:1678968302,289950) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968302,367657) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968302,367719) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678968302,367727) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968303,337400) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968303,395474) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968303,395545) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968304,369243) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968304,422619) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968304,422672) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968305,419481) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968305,451732) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968305,451786) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968306,441247) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968306,477768) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968306,477829) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968307,465247) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968307,505994) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968307,506040) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968308,481080) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968308,533801) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968308,533882) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968309,512951) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968309,562688) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968309,562745) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968310,556726) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968310,591703) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968310,591792) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968311,596841) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968311,619023) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968311,619074) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968312,619163) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968312,646998) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968312,647060) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968313,645906) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968313,674415) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968313,674479) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968314,679718) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968314,700820) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968314,700897) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968315,697510) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968315,728696) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968315,728764) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968316,730430) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968316,754679) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968316,754733) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968317,758783) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968317,782117) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968317,782236) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968318,782925) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968318,809371) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968318,809435) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968319,833397) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968320,867729) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968320,989975) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968320,990028) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968321,908836) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968322,17078) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968322,17128) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968322,944782) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968323,968126) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968324,71872) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968324,71906) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968324,992571) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968325,101024) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968325,101104) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968326,25846) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968326,129363) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968326,129536) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968327,62185) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968327,158540) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968327,158683) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968328,98299) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968328,186302) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968328,186421) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968329,129548) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968329,214225) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968329,214329) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968330,158402) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968330,241913) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968330,242002) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968331,189012) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968331,269753) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968331,269789) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968332,211952) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968332,299515) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968332,299672) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968333,237546) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968333,327499) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968333,327643) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968334,268660) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968335,284202) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968335,383671) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968335,383859) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968336,319607) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968336,411250) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968336,411399) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968337,352228) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968337,437944) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968337,438107) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968338,384999) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968338,464863) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968338,464926) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968339,424807) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968339,492442) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968339,492498) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968340,470910) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968340,520698) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968340,520758) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968341,512554) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968342,547027) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968342,577081) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968342,577137) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968343,586609) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968343,605429) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968343,605483) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968344,629269) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968345,654527) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968345,662018) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968345,662051) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968346,692260) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968346,818001) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968346,818052) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968347,711520) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968347,717639) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968347,717735) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968348,746902) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968349,771056) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968349,774835) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968349,774885) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968350,791046) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968350,802966) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968350,803021) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968351,815307) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968352,837304) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968352,858944) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968352,858995) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968353,871199) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968353,886666) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968353,886706) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968354,889930) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968354,913424) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968354,913490) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968355,915697) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968355,941699) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968355,941762) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968356,934606) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968356,969426) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968356,969591) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968357,956785) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968357,998065) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968357,998153) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968358,985699) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968360,28302) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968360,54646) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968360,54729) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968361,51325) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968361,82330) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968361,82359) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968362,109564) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968362,110524) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968362,110554) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968363,147522) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968363,266105) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968363,266145) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968364,177832) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968364,299544) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968364,299653) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968365,208689) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968365,325995) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968365,326054) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968366,226079) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968366,226301) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968366,226344) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968367,245170) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968367,255633) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968367,255696) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968368,264483) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968368,284593) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968368,284658) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968369,295401) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968369,311625) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968369,311698) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968370,312573) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968371,333188) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968371,369119) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968371,369326) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968372,358197) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968372,397278) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968372,397342) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968373,406692) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968374,448119) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968374,453996) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968374,454039) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968375,475211) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968375,481976) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968375,482041) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968376,502019) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968376,510238) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968376,510302) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968377,527912) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968378,552654) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968378,568173) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968378,568241) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968379,592794) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968379,596878) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968379,596943) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968380,617960) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968381,648460) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968381,652693) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968381,652755) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968382,680251) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968382,681505) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968382,681549) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968383,713962) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968383,838905) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968383,839068) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968384,735070) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968384,737689) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968384,737732) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968385,750782) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968385,767486) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968385,767547) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968386,766367) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968386,795059) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968386,795110) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968387,783257) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968388,813568) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968388,850903) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968388,850958) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968389,833423) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968389,878959) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968389,879010) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968390,879543) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968390,907063) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968390,907128) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968391,923548) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968391,935563) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968391,935609) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968392,952970) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968392,965448) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968392,965612) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968393,976723) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968393,993585) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968393,993651) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968394,998753) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968395,21357) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968395,21395) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968396,42194) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968396,48406) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968396,48454) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968397,70982) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968397,77958) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968397,77996) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968398,100517) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968398,106364) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968398,106452) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968399,146939) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968400,205238) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968400,289133) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968400,289193) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968401,224698) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968401,316238) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968401,316330) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968402,248287) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968402,343415) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968402,343514) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968403,265566) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968403,370242) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968403,370393) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968404,283628) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968404,398641) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968404,398791) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968405,304831) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968405,425456) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968405,425624) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968406,336086) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968407,359963) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968407,480693) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968407,480985) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968408,398211) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968408,507011) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968408,507117) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968409,426144) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968410,445963) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968410,561646) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968410,561731) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968411,469048) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968411,588610) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968411,588659) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968412,488880) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968412,616321) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968412,616376) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968413,527788) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968413,644557) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968413,644740) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968414,550581) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968414,671345) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968414,671407) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968415,594658) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968415,698865) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968415,698964) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968416,628184) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968417,645476) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968417,753589) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968417,753720) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968418,675746) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968418,781327) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968418,781372) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968419,694763) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968419,809702) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968419,809871) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968420,735249) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968420,837574) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968420,837875) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968421,775263) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968421,863772) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968421,863850) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968422,817305) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968422,891263) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968422,891334) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (21248) (2:1678968423,837126) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (9985) (2:1678968423,919164) ACTIVITY_LO: (thrDistribute) DOTHRUSTER : DO Thruster
+EVENT: (9984) (2:1678968423,919262) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+[WARNING] Failed to recv from port with status -8 and errno 0
+EVENT: (21248) (2:1678968424,867794) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight
+EVENT: (21248) (2:1678968425,884207) ACTIVITY_LO: (protectFromSunlight) PROCESS_OUT_DATA : Protect from Sunlight

@@ -1,0 +1,2 @@
+doThr:0
+strongSunlight:1

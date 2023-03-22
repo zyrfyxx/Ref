@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_ThrDistribute.a CMakeFiles/Ref_ThrDistribute.dir/ThrDistribute.cpp.o CMakeFiles/Ref_ThrDistribute.dir/ThrDistributeComponentAc.cpp.o CMakeFiles/Ref_ThrDistribute.dir/ThrDistributePortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_ThrDistribute.a

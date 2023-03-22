@@ -1,0 +1,7 @@
+/home/kokaze/fprime/Fw/Cmd/Cmd.fpp
+/home/kokaze/fprime/Fw/Com/Com.fpp
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Time/Time.fpp
+/home/kokaze/fprime/Svc/Fatal/Fatal.fpp
+/home/kokaze/fprime/Svc/Ping/Ping.fpp
+/home/kokaze/fprime/config/FpConfig.fpp

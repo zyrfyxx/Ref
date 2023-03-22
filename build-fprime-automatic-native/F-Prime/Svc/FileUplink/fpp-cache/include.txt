@@ -1,0 +1,2 @@
+/home/kokaze/fprime/Svc/FileUplink/Events.fppi
+/home/kokaze/fprime/Svc/FileUplink/Telemetry.fppi

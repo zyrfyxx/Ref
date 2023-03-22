@@ -1,0 +1,402 @@
+Hit Ctrl-C to quit
+EVENT: (1280) (2:1678963800,611376) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2100 registered to port 0 slot 0
+EVENT: (1280) (2:1678963800,611435) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2101 registered to port 0 slot 1
+EVENT: (1280) (2:1678963800,611444) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2102 registered to port 0 slot 2
+EVENT: (1280) (2:1678963800,611448) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2200 registered to port 1 slot 3
+EVENT: (1280) (2:1678963800,611451) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2201 registered to port 1 slot 4
+EVENT: (1280) (2:1678963800,611455) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2202 registered to port 1 slot 5
+EVENT: (1280) (2:1678963800,611458) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2300 registered to port 2 slot 6
+EVENT: (1280) (2:1678963800,611462) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2301 registered to port 2 slot 7
+EVENT: (1280) (2:1678963800,611465) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2302 registered to port 2 slot 8
+EVENT: (1280) (2:1678963800,611468) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2400 registered to port 3 slot 9
+EVENT: (1280) (2:1678963800,611472) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2401 registered to port 3 slot 10
+EVENT: (1280) (2:1678963800,611475) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2402 registered to port 3 slot 11
+EVENT: (1280) (2:1678963800,611479) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2500 registered to port 4 slot 12
+EVENT: (1280) (2:1678963800,611482) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2501 registered to port 4 slot 13
+EVENT: (1280) (2:1678963800,611486) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2502 registered to port 4 slot 14
+EVENT: (1280) (2:1678963800,611489) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x500 registered to port 5 slot 15
+EVENT: (1280) (2:1678963800,611493) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x501 registered to port 5 slot 16
+EVENT: (1280) (2:1678963800,611508) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x502 registered to port 5 slot 17
+EVENT: (1280) (2:1678963800,611516) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x503 registered to port 5 slot 18
+EVENT: (1280) (2:1678963800,611520) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x600 registered to port 6 slot 19
+EVENT: (1280) (2:1678963800,611524) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x601 registered to port 6 slot 20
+EVENT: (1280) (2:1678963800,611527) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x602 registered to port 6 slot 21
+EVENT: (1280) (2:1678963800,611531) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x603 registered to port 6 slot 22
+EVENT: (1280) (2:1678963800,611535) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x604 registered to port 6 slot 23
+EVENT: (1280) (2:1678963800,611538) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x605 registered to port 6 slot 24
+EVENT: (1280) (2:1678963800,611542) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x606 registered to port 6 slot 25
+EVENT: (1280) (2:1678963800,611545) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x607 registered to port 6 slot 26
+EVENT: (1280) (2:1678963800,611549) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe00 registered to port 7 slot 27
+EVENT: (1280) (2:1678963800,611552) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe01 registered to port 7 slot 28
+EVENT: (1280) (2:1678963800,611556) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb00 registered to port 8 slot 29
+EVENT: (1280) (2:1678963800,611559) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb02 registered to port 8 slot 30
+EVENT: (1280) (2:1678963800,611563) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb03 registered to port 8 slot 31
+EVENT: (1280) (2:1678963800,611567) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x700 registered to port 9 slot 32
+EVENT: (1280) (2:1678963800,611570) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x701 registered to port 9 slot 33
+EVENT: (1280) (2:1678963800,611573) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x702 registered to port 9 slot 34
+EVENT: (1280) (2:1678963800,611582) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x800 registered to port 10 slot 35
+EVENT: (1280) (2:1678963800,611586) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x801 registered to port 10 slot 36
+EVENT: (1280) (2:1678963800,611589) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x802 registered to port 10 slot 37
+EVENT: (1280) (2:1678963800,611593) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x803 registered to port 10 slot 38
+EVENT: (1280) (2:1678963800,611596) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x804 registered to port 10 slot 39
+EVENT: (1280) (2:1678963800,611600) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x805 registered to port 10 slot 40
+EVENT: (1280) (2:1678963800,611604) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2000 registered to port 11 slot 41
+EVENT: (1280) (2:1678963800,611607) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2001 registered to port 11 slot 42
+EVENT: (1280) (2:1678963800,611611) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2002 registered to port 11 slot 43
+EVENT: (1280) (2:1678963800,611615) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xa00 registered to port 12 slot 44
+EVENT: (1280) (2:1678963800,611618) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xd00 registered to port 13 slot 45
+EVENT: (1280) (2:1678963800,611622) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4700 registered to port 14 slot 46
+EVENT: (1280) (2:1678963800,611625) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4701 registered to port 14 slot 47
+EVENT: (1280) (2:1678963800,611629) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4702 registered to port 14 slot 48
+EVENT: (1280) (2:1678963800,611633) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4703 registered to port 14 slot 49
+EVENT: (1280) (2:1678963800,611636) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2600 registered to port 15 slot 50
+EVENT: (1280) (2:1678963800,611640) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2601 registered to port 15 slot 51
+EVENT: (1280) (2:1678963800,611643) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2602 registered to port 15 slot 52
+EVENT: (1280) (2:1678963800,611647) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2603 registered to port 15 slot 53
+EVENT: (1280) (2:1678963800,611650) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260a registered to port 15 slot 54
+EVENT: (1280) (2:1678963800,611654) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260b registered to port 15 slot 55
+EVENT: (1280) (2:1678963800,611658) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260c registered to port 15 slot 56
+EVENT: (1280) (2:1678963800,611661) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260d registered to port 15 slot 57
+EVENT: (1280) (2:1678963800,611665) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b00 registered to port 16 slot 58
+EVENT: (1280) (2:1678963800,611668) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b01 registered to port 16 slot 59
+EVENT: (3335) (2:1678963800,611693) ACTIVITY_HI: (prmDb) PrmFileLoadComplete : Parameter file load completed. Read 4 records.
+EVENT: (3328) (2:1678963800,611717) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4700 not found
+EVENT: (3328) (2:1678963800,611724) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4701 not found
+EVENT: (3328) (2:1678963800,611729) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2600 not found
+EVENT: (3328) (2:1678963800,611732) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2601 not found
+[WARNING] High task priority of 140 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_blockDrv. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_chanTlm. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 101 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdDisp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdSeq. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_ReceiveTask. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+Connected to 0.0.0.0:50000 as a tcp client
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_control. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_eventLogger. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileDownlink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileManager. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileUplink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_pingRcvr. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_prmDb. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 120 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup1Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 119 being clamped to 99
+EVENT: (512) (2:1678963800,615752) DIAGNOSTIC: (rateGroup1Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup2Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 118 being clamped to 99
+EVENT: (768) (2:1678963800,615886) DIAGNOSTIC: (rateGroup2Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup3Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+EVENT: (1024) (2:1678963800,616222) DIAGNOSTIC: (rateGroup3Comp) RateGroupStarted : Rate group started.
+EVENT: (1281) (2:1678963821,760192) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0xe00 dispatched to port 7
+EVENT: (3584) (2:1678963821,760249) ACTIVITY_LO: (control) START_CONTROL : start control
+Traceback (most recent call last):
+  File "/home/kokaze/LTLMoP-py3/Control.py", line 4, in <module>
+    import project
+  File "/home/kokaze/LTLMoP-py3/project.py", line 15, in <module>
+    from numpy import *
+  File "/home/kokaze/anaconda3/envs/fprime-venv/lib/python3.7/site-packages/numpy/__init__.py", line 150, in <module>
+    from . import core
+  File "/home/kokaze/anaconda3/envs/fprime-venv/lib/python3.7/site-packages/numpy/core/__init__.py", line 72, in <module>
+    from . import numeric
+  File "/home/kokaze/anaconda3/envs/fprime-venv/lib/python3.7/site-packages/numpy/core/numeric.py", line 24, in <module>
+    from . import shape_base
+  File "/home/kokaze/anaconda3/envs/fprime-venv/lib/python3.7/site-packages/numpy/core/shape_base.py", line 12, in <module>
+    from . import fromnumeric as _from_nx
+  File "/home/kokaze/anaconda3/envs/fprime-venv/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 14, in <module>
+    from . import _methods
+  File "/home/kokaze/anaconda3/envs/fprime-venv/lib/python3.7/site-packages/numpy/core/_methods.py", line 13, in <module>
+    from numpy.core import _exceptions
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+KeyboardInterrupt
+[WARNING] Failed to recv from port with status -8 and errno 0
+[WARNING] Failed to open port with status -4 and errno 111
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[WARNING] Failed to open port with status -4 and errno 111
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1
+[ERROR] Failed to send framed data: 1

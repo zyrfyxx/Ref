@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_DataType.a CMakeFiles/Ref_DataType.dir/SAttitudeSerializableAc.cpp.o CMakeFiles/Ref_DataType.dir/SControllerSerializableAc.cpp.o CMakeFiles/Ref_DataType.dir/SFratemodulatorSerializableAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_DataType.a

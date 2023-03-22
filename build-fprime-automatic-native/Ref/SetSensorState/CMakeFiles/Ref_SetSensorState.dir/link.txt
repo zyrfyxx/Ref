@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_SetSensorState.a CMakeFiles/Ref_SetSensorState.dir/SetSensorState.cpp.o CMakeFiles/Ref_SetSensorState.dir/__/tools/SetSensor/SetSensor.cpp.o CMakeFiles/Ref_SetSensorState.dir/SetSensorStateComponentAc.cpp.o CMakeFiles/Ref_SetSensorState.dir/SetSensorStatePortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_SetSensorState.a

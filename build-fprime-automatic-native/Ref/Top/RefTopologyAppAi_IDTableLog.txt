@@ -1,0 +1,72 @@
+     INSTANCE NAME      | BASE ID (HEX) | REQUESTED WINDOW SIZE | DIFFERENCED ID WINDOW SIZE | LARGEST COMPONENT INTERNAL ID | MAX AMOUNT OF IDS
+       blockDrv         |  256 (0x100)  |           1           |            256             |               1               |         1        
+    rateGroup1Comp      |  512 (0x200)  |           2           |            256             |               2               |         2        
+    rateGroup2Comp      |  768 (0x300)  |           2           |            256             |               2               |         2        
+    rateGroup3Comp      | 1024 (0x400)  |           2           |            256             |               2               |         2        
+        cmdDisp         | 1280 (0x500)  |          11           |            256             |              11               |        11        
+        cmdSeq          | 1536 (0x600)  |          25           |            256             |              25               |        25        
+     fileDownlink       | 1792 (0x700)  |           9           |            256             |               9               |         9        
+      fileManager       | 2048 (0x800)  |          18           |            256             |              18               |        18        
+      fileUplink        | 2304 (0x900)  |           9           |            256             |               9               |         9        
+       pingRcvr         | 2560 (0xa00)  |           2           |            256             |               2               |         2        
+      eventLogger       | 2816 (0xb00)  |           5           |            256             |               5               |         5        
+        chanTlm         | 3072 (0xc00)  |           0           |            256             |             None              |         0        
+         prmDb          | 3328 (0xd00)  |           8           |            256             |               8               |         8        
+        control         | 3584 (0xe00)  |           4           |            4608            |               4               |         4        
+        health          | 8192 (0x2000) |           8           |            256             |               8               |         8        
+          SG1           | 8448 (0x2100) |           6           |            256             |               6               |         6        
+          SG2           | 8704 (0x2200) |           6           |            256             |               6               |         6        
+          SG3           | 8960 (0x2300) |           6           |            256             |               6               |         6        
+          SG4           | 9216 (0x2400) |           6           |            256             |               6               |         6        
+          SG5           | 9472 (0x2500) |           6           |            256             |               6               |         6        
+     sendBuffComp       | 9728 (0x2600) |          14           |            256             |              14               |         9        
+     thrDistribute      | 9984 (0x2700) |           2           |            6400            |               2               |         2        
+         comm           | 16384 (0x4000 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+       downlink         | 16640 (0x4100 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+     fatalAdapter       | 16896 (0x4200 |           8           |            256             |               8               |         8        
+                        |       )       |                       |                            |                               |                  
+     fatalHandler       | 17152 (0x4300 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+fileUplinkBufferManager | 17408 (0x4400 |           5           |            256             |               5               |         5        
+                        |       )       |                       |                            |                               |                  
+       linuxTime        | 17664 (0x4500 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+  rateGroupDriverComp   | 17920 (0x4600 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+     recvBuffComp       | 18176 (0x4700 |           5           |            256             |               5               |         9        
+                        |       )       |                       |                            |                               |                  
+     staticMemory       | 18432 (0x4800 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+      textLogger        | 18688 (0x4900 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+        uplink          | 18944 (0x4a00 |           0           |            256             |             None              |         0        
+                        |       )       |                       |                            |                               |                  
+    systemResources     | 19200 (0x4b00 |          23           |            256             |              23               |        23        
+                        |       )       |                       |                            |                               |                  
+       doActions        | 19456 (0x4c00 |           2           |            256             |               2               |         2        
+                        |       )       |                       |                            |                               |                  
+    setSensorState      | 19712 (0x4d00 |           2           |            256             |               2               |         2        
+                        |       )       |                       |                            |                               |                  
+      getEnvData        | 19968 (0x4e00 |           2           |            256             |               2               |         2        
+                        |       )       |                       |                            |                               |                  
+      processData       | 20224 (0x4f00 |           1           |            256             |               1               |         1        
+                        |       )       |                       |                            |                               |                  
+     processInData      | 20480 (0x5000 |           6           |            256             |               6               |         6        
+                        |       )       |                       |                            |                               |                  
+    processOutData      | 20736 (0x5100 |           1           |            256             |               1               |         1        
+                        |       )       |                       |                            |                               |                  
+      getCtrlData       | 20992 (0x5200 |           1           |            256             |               1               |         1        
+                        |       )       |                       |                            |                               |                  
+  protectFromSunlight   | 21248 (0x5300 |           1           |            inf.            |               1               |         1        
+                        |       )       |                       |                            |                               |                  
+-------------------------------------------------------------------------------------------------------------------------------------
+| INSTANCE NAME                 - Name of the instance object.                                                                      |
+| BASE ID (HEX)                 - Base ID set for the instance.                                                                     |
+| REQUESTED WINDOW SIZE         - Specified by either the 'base_id_range' attribute in the instance tag or by finding the max of th |
+|                                 e 'base_id_range' attribute in the topology tag and the largest internal ID of the instance.      |
+| DIFFERENCED ID WINDOW SIZE    - Calculated by subtracting the current base ID from the next base ID.                              |
+| LARGEST COMPONENT INTERNAL ID - The largest ID found in the events, channels, and commands of the instance.                       |
+| MAX AMOUNT OF IDS             - The largest amount of items from either events, channels, or commands.                            |
+-------------------------------------------------------------------------------------------------------------------------------------

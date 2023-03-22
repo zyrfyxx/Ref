@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_ProcessOutData.a CMakeFiles/Ref_ProcessOutData.dir/ProcessOutData.cpp.o CMakeFiles/Ref_ProcessOutData.dir/utils.cpp.o CMakeFiles/Ref_ProcessOutData.dir/ProcessOutDataComponentAc.cpp.o CMakeFiles/Ref_ProcessOutData.dir/ProcessOutDataPortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_ProcessOutData.a

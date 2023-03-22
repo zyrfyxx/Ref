@@ -1,0 +1,5 @@
+/home/kokaze/fprime/Ref/DataType/DataType.fpp
+/home/kokaze/fprime/Ref/DoActions/DoActions.fpp
+/home/kokaze/fprime/Ref/GetCtrlData/GetCtrlData.fpp
+/home/kokaze/fprime/Ref/GetEnvData/GetEnvData.fpp
+/home/kokaze/fprime/Ref/ProcessData/ProcessData.fpp

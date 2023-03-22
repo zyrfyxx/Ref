@@ -1,0 +1,10 @@
+/home/kokaze/fprime/Fw/Cmd/Cmd.fpp
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Time/Time.fpp
+/home/kokaze/fprime/Fw/Tlm/Tlm.fpp
+/home/kokaze/fprime/Fw/Types/Types.fpp
+/home/kokaze/fprime/Svc/Ping/Ping.fpp
+/home/kokaze/fprime/Svc/Sched/Sched.fpp
+/home/kokaze/fprime/Svc/WatchDog/WatchDog.fpp
+/home/kokaze/fprime/config/AcConstants.fpp
+/home/kokaze/fprime/config/FpConfig.fpp

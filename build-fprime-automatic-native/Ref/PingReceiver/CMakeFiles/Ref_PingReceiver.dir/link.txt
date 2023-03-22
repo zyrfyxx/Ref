@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_PingReceiver.a CMakeFiles/Ref_PingReceiver.dir/PingReceiverComponentImpl.cpp.o CMakeFiles/Ref_PingReceiver.dir/PingReceiverComponentAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_PingReceiver.a

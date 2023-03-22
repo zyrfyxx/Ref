@@ -1,0 +1,882 @@
+Hit Ctrl-C to quit
+EVENT: (1280) (2:1678970977,357215) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2100 registered to port 0 slot 0
+EVENT: (1280) (2:1678970977,357274) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2101 registered to port 0 slot 1
+EVENT: (1280) (2:1678970977,357283) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2102 registered to port 0 slot 2
+EVENT: (1280) (2:1678970977,357287) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2200 registered to port 1 slot 3
+EVENT: (1280) (2:1678970977,357290) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2201 registered to port 1 slot 4
+EVENT: (1280) (2:1678970977,357294) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2202 registered to port 1 slot 5
+EVENT: (1280) (2:1678970977,357297) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2300 registered to port 2 slot 6
+EVENT: (1280) (2:1678970977,357300) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2301 registered to port 2 slot 7
+EVENT: (1280) (2:1678970977,357303) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2302 registered to port 2 slot 8
+EVENT: (1280) (2:1678970977,357307) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2400 registered to port 3 slot 9
+EVENT: (1280) (2:1678970977,357310) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2401 registered to port 3 slot 10
+EVENT: (1280) (2:1678970977,357313) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2402 registered to port 3 slot 11
+EVENT: (1280) (2:1678970977,357317) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2500 registered to port 4 slot 12
+EVENT: (1280) (2:1678970977,357320) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2501 registered to port 4 slot 13
+EVENT: (1280) (2:1678970977,357323) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2502 registered to port 4 slot 14
+EVENT: (1280) (2:1678970977,357327) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x500 registered to port 5 slot 15
+EVENT: (1280) (2:1678970977,357330) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x501 registered to port 5 slot 16
+EVENT: (1280) (2:1678970977,357333) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x502 registered to port 5 slot 17
+EVENT: (1280) (2:1678970977,357337) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x503 registered to port 5 slot 18
+EVENT: (1280) (2:1678970977,357340) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x600 registered to port 6 slot 19
+EVENT: (1280) (2:1678970977,357343) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x601 registered to port 6 slot 20
+EVENT: (1280) (2:1678970977,357347) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x602 registered to port 6 slot 21
+EVENT: (1280) (2:1678970977,357350) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x603 registered to port 6 slot 22
+EVENT: (1280) (2:1678970977,357353) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x604 registered to port 6 slot 23
+EVENT: (1280) (2:1678970977,357357) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x605 registered to port 6 slot 24
+EVENT: (1280) (2:1678970977,357360) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x606 registered to port 6 slot 25
+EVENT: (1280) (2:1678970977,357363) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x607 registered to port 6 slot 26
+EVENT: (1280) (2:1678970977,357366) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe00 registered to port 7 slot 27
+EVENT: (1280) (2:1678970977,357370) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe01 registered to port 7 slot 28
+EVENT: (1280) (2:1678970977,357373) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb00 registered to port 8 slot 29
+EVENT: (1280) (2:1678970977,357377) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb02 registered to port 8 slot 30
+EVENT: (1280) (2:1678970977,357380) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb03 registered to port 8 slot 31
+EVENT: (1280) (2:1678970977,357383) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x700 registered to port 9 slot 32
+EVENT: (1280) (2:1678970977,357387) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x701 registered to port 9 slot 33
+EVENT: (1280) (2:1678970977,357390) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x702 registered to port 9 slot 34
+EVENT: (1280) (2:1678970977,357413) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x800 registered to port 10 slot 35
+EVENT: (1280) (2:1678970977,357417) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x801 registered to port 10 slot 36
+EVENT: (1280) (2:1678970977,357421) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x802 registered to port 10 slot 37
+EVENT: (1280) (2:1678970977,357424) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x803 registered to port 10 slot 38
+EVENT: (1280) (2:1678970977,357427) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x804 registered to port 10 slot 39
+EVENT: (1280) (2:1678970977,357431) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x805 registered to port 10 slot 40
+EVENT: (1280) (2:1678970977,357434) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2000 registered to port 11 slot 41
+EVENT: (1280) (2:1678970977,357438) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2001 registered to port 11 slot 42
+EVENT: (1280) (2:1678970977,357441) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2002 registered to port 11 slot 43
+EVENT: (1280) (2:1678970977,357444) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xa00 registered to port 12 slot 44
+EVENT: (1280) (2:1678970977,357448) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xd00 registered to port 13 slot 45
+EVENT: (1280) (2:1678970977,357451) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4700 registered to port 14 slot 46
+EVENT: (1280) (2:1678970977,357455) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4701 registered to port 14 slot 47
+EVENT: (1280) (2:1678970977,357458) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4702 registered to port 14 slot 48
+EVENT: (1280) (2:1678970977,357461) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4703 registered to port 14 slot 49
+EVENT: (1280) (2:1678970977,357465) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2600 registered to port 15 slot 50
+EVENT: (1280) (2:1678970977,357468) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2601 registered to port 15 slot 51
+EVENT: (1280) (2:1678970977,357472) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2602 registered to port 15 slot 52
+EVENT: (1280) (2:1678970977,357475) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2603 registered to port 15 slot 53
+EVENT: (1280) (2:1678970977,357478) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260a registered to port 15 slot 54
+EVENT: (1280) (2:1678970977,357482) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260b registered to port 15 slot 55
+EVENT: (1280) (2:1678970977,357485) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260c registered to port 15 slot 56
+EVENT: (1280) (2:1678970977,357488) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260d registered to port 15 slot 57
+EVENT: (1280) (2:1678970977,357492) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b00 registered to port 16 slot 58
+EVENT: (1280) (2:1678970977,357495) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b01 registered to port 16 slot 59
+EVENT: (3335) (2:1678970977,357520) ACTIVITY_HI: (prmDb) PrmFileLoadComplete : Parameter file load completed. Read 4 records.
+EVENT: (3328) (2:1678970977,357535) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4700 not found
+EVENT: (3328) (2:1678970977,357541) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4701 not found
+EVENT: (3328) (2:1678970977,357545) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2600 not found
+EVENT: (3328) (2:1678970977,357548) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2601 not found
+[WARNING] High task priority of 140 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_blockDrv. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_chanTlm. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 101 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdDisp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdSeq. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_ReceiveTask. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+Connected to 0.0.0.0:50000 as a tcp client
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_control. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_eventLogger. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileDownlink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileManager. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileUplink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_pingRcvr. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_prmDb. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 120 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup1Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 119 being clamped to 99
+EVENT: (512) (2:1678970977,362212) DIAGNOSTIC: (rateGroup1Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup2Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 118 being clamped to 99
+EVENT: (768) (2:1678970977,362403) DIAGNOSTIC: (rateGroup2Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup3Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+EVENT: (1024) (2:1678970977,362604) DIAGNOSTIC: (rateGroup3Comp) RateGroupStarted : Rate group started.
+EVENT: (1281) (2:1678970987,831824) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0xe00 dispatched to port 7
+EVENT: (3584) (2:1678970987,831903) ACTIVITY_LO: (control) START_CONTROL : start control
+EVENT: (9984) (2:1678970988,28195) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970988,28256) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970989,57938) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970989,58016) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970990,86444) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970990,86502) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970991,115557) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970991,115609) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970992,145263) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970992,145362) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970993,172064) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970993,172183) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970994,199014) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970994,199073) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970995,226773) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970996,255978) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970997,284695) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970997,284782) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678970998,312545) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970999,340043) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678970999,340102) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971000,367369) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971001,395805) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971002,423950) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971002,424012) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971003,580392) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971004,610079) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971004,610333) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971006,666831) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971007,567630) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971007,567701) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971009,624678) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971009,624778) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971010,654048) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971011,683372) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971012,712605) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971013,742031) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971014,771103) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971015,928434) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971016,956075) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971017,856759) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971017,856856) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971018,886446) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971021,72064) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971021,72156) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971022,101509) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971023,129386) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971024,29923) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971025,58301) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971026,86375) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971026,86440) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971028,143546) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971028,143614) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971029,172284) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971031,228484) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971031,228540) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971032,258729) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971033,287305) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971033,287362) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971035,346087) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971036,373862) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971036,373928) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971038,432858) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971038,432938) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971039,590424) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971040,617619) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971041,645572) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971042,675465) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971043,574199) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971043,574230) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971045,631853) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971046,661096) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971046,661186) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971047,690177) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971048,718735) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971049,747454) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971050,775431) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971051,802748) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971052,832231) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971053,859790) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971054,888466) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971054,888640) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971056,942840) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971056,942907) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971058,99322) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971060,156434) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971060,156568) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971061,186334) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971062,214778) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971062,214979) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971064,270533) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971065,169575) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971065,169635) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971067,227111) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971067,227177) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971068,255338) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971069,283879) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971070,313685) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971071,341845) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971072,497620) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971072,497693) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971074,428089) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971075,455051) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971075,455123) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971076,612448) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971077,641897) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971078,671922) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971079,700540) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971080,729370) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971081,757888) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971082,655296) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971082,655356) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971083,683534) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971085,740209) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971085,740276) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971086,769410) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971087,798020) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971088,825741) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971089,854996) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971090,883182) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971090,883231) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971092,941413) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971093,968421) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971093,968481) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971096,26201) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971096,26264) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971097,54025) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971098,82966) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971099,111774) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971100,140244) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971101,168661) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971101,168782) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971103,225452) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971104,253970) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971104,254039) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971105,282034) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971106,310417) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971107,339332) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971108,367448) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971109,395552) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971110,423780) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971111,452555) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971111,452808) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971112,481902) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971114,539457) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971114,539595) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971115,567977) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971116,595468) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971117,624362) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971118,653483) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971119,682340) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971119,682406) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971121,740709) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971121,740776) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971122,770655) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971124,827920) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971124,828019) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971125,855336) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971126,882817) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971126,882952) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971128,940659) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971129,968728) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971129,968830) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971132,24678) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971133,53225) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971133,53292) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971134,82137) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971135,109983) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971136,140031) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971137,168194) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971138,197869) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971139,226146) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971140,254687) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971140,254743) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971141,282190) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971143,337781) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971143,337852) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971144,366654) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971145,395911) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971146,423842) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971147,451984) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971148,481672) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971148,481770) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971150,538402) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971150,538457) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971151,695066) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971153,754198) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971153,754406) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971154,781100) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971155,809826) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971155,809996) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971157,867111) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971158,896480) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971158,896691) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971160,823455) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971160,823576) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971161,852371) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971162,881559) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971163,909456) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971164,937685) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971165,967182) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971165,967247) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971168,153300) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971169,181177) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971169,181245) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971170,210919) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971172,140960) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971172,141023) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971173,169514) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971174,198750) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971175,227904) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971176,256164) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971177,285184) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971177,285308) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971179,341802) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971179,341869) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971180,370357) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971182,428503) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971182,428598) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971183,457728) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971184,485954) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971184,486039) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971186,542341) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971187,571029) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971187,571082) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971189,628728) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971189,628798) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971190,657357) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971191,686466) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971192,714580) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971193,742953) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971194,771282) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971194,771339) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971196,828047) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971197,855879) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971197,855936) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971198,884867) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971199,914785) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971200,943150) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971201,971420) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971203,473) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971204,29125) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971205,57681) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971205,57763) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971206,86647) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971208,143926) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971208,144007) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971209,174170) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971211,231080) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971211,231127) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971212,259384) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971213,289221) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971213,289325) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971215,347888) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971216,375768) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971216,375882) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971218,305223) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971218,305277) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971219,333544) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971220,361753) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971221,389745) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971222,419128) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971223,448403) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971223,448465) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971225,503969) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971226,533260) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971226,533330) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971227,561416) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971228,589805) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971229,618607) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971230,647269) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971231,676668) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971232,705477) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971233,733669) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971233,733729) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971234,761406) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971236,818376) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971236,818481) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971237,846954) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971238,875677) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1678971240,31728) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1678971240,931893) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015292,748517) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015292,748687) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015295,60870) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015295,60925) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015296,215312) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015298,400771) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015298,400896) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015299,428894) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015300,585248) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015301,614007) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015302,640515) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015303,539283) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015303,539373) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015305,593945) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015306,620923) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015306,620966) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015307,776488) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015308,801683) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015309,956723) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015310,984112) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015312,10875) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015313,37629) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015314,64338) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015314,64395) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015315,90839) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015317,144579) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015317,144647) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015318,171911) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015319,326961) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015320,354492) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015321,252898) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015323,76563) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015323,76649) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015325,129990) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015325,130049) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015326,156274) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015328,340449) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015328,340552) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015329,238281) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015330,263819) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015330,263872) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015332,445949) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015333,472033) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015333,472090) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015335,526601) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015335,526655) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015336,554907) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015337,581694) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015338,608682) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015339,764420) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015340,791155) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015341,817618) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015342,844777) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015343,743590) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015343,743630) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015344,770581) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015346,826240) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015346,826311) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015347,856071) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015348,882553) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015349,909406) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015350,938127) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015351,966071) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015351,966150) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015354,151404) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015354,151493) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015355,180574) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015357,238799) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015357,238854) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015358,267398) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015359,296067) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015359,296156) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015361,352239) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015362,381309) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015362,381585) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015364,436792) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015364,437041) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015365,466484) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015366,494618) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015367,523631) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015368,554441) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015369,583249) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015369,583347) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015371,510729) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015372,667006) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015372,667072) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015373,696438) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015374,725356) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015375,755308) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015376,782875) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015377,812695) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015378,841843) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015379,871083) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015380,898876) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015380,899035) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015382,954949) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015382,955025) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015383,983219) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015386,39047) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015386,39114) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015387,67272) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015388,95267) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015388,95356) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015390,152069) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015391,179031) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015391,179084) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015393,235353) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015393,235421) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015394,263171) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015395,290825) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015396,318834) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015397,347254) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015398,376778) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015398,376846) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015400,560305) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015401,586422) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015401,586490) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015402,614076) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015403,641224) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015404,668402) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015405,695494) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015406,723061) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015407,750634) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015408,780024) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015408,780079) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015409,807480) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015411,993617) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015411,993713) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015413,21600) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015414,48764) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015415,76418) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015416,104882) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015417,132114) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015417,132171) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015419,187715) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015420,216617) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015420,216697) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015422,270838) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015422,270917) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015423,298052) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015424,325323) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015425,352089) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015426,379859) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015427,408719) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015427,408814) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015429,594739) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015430,623434) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015430,624288) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015431,651419) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015432,679255) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015433,706931) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015434,734899) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015435,762762) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015436,791104) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015437,818330) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015437,818534) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015438,844665) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015440,899611) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015440,899652) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015441,928076) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015442,955934) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015443,983442) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015445,10725) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015446,38537) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015446,38595) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015448,93232) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015448,93342) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015449,249847) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015451,305033) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015451,305195) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015452,332079) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015453,359516) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015453,359586) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015455,414129) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015456,442839) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015456,442928) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015458,499581) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015459,528197) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015459,528315) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015460,555264) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015461,711105) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015462,738667) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015463,766810) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015464,794752) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015465,822596) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015466,851236) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015466,851337) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015467,879346) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015469,935648) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015469,935764) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015470,964006) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015471,993970) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015473,21282) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015474,49411) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015475,78051) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015475,78202) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015477,134073) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015477,134225) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015478,163080) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015480,220165) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015480,220218) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015481,248661) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015482,277980) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015482,278036) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015484,332980) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015485,359900) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015485,359936) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015487,416102) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015487,416159) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015488,444422) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015489,473315) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015490,501218) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015491,529064) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015492,557063) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015492,557140) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015494,611993) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015495,641048) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015495,641093) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015496,670573) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015498,725189) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015498,725249) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015499,753781) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015500,781731) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015501,809323) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015502,837623) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015503,865608) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015503,865672) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015506,52014) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015506,52113) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015507,81556) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015509,7428) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015509,7477) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015510,35800) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015511,64085) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015511,64144) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015513,120964) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015514,277485) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015514,277577) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015516,334945) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015516,335046) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015517,362989) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015518,390878) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015519,420560) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015520,447442) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015521,475672) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015521,475748) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015523,533212) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015524,562159) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015524,562221) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015525,589577) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015526,617403) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015527,645139) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015528,673869) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015529,699635) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015530,728336) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015531,757455) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015531,757531) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015532,785268) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015534,842287) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015534,842347) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015535,871365) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015538,57922) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015538,58151) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015539,84199) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015540,114743) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015540,115411) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015542,168427) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015543,198678) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015543,198785) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015545,255350) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015545,255407) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015546,283503) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015547,311754) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015548,339577) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015549,366988) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015550,393877) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015550,393953) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015552,449117) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015553,477271) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015553,477424) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015554,504779) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015555,533460) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015556,563162) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015557,592364) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015558,621074) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015559,648867) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015560,677645) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015560,677953) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015561,706140) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015563,762581) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015563,762805) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015564,661702) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015565,689893) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015566,717315) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015567,746321) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015568,904404) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015568,904616) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015570,960742) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015570,960969) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015571,859385) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015573,916970) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015573,917090) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015574,945012) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015576,104014) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015577,2540) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015578,30938) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015579,187450) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015579,187609) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015581,243920) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015582,271722) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015582,271804) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015583,299781) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015584,200086) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015585,227930) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015586,385615) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015587,414102) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015588,313162) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015589,342346) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015589,342404) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015590,370481) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015592,425693) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015592,425746) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015593,453604) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015594,479307) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015595,505822) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015596,531911) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015597,559077) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015597,559118) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015599,740151) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015599,740205) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015600,767123) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015602,950745) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015602,950796) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015603,978644) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015605,5822) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015605,5875) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015607,186795) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015608,213629) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015608,213667) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015610,395933) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015610,395996) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015611,423301) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015612,449892) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015613,476720) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015614,632565) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015615,659077) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015616,686926) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015617,713779) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015618,740300) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015618,740473) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015619,766368) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015621,819863) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015621,820025) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015622,846956) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015623,874596) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015624,903968) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015625,932585) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015626,960040) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015626,960095) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015629,146191) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015629,146309) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015630,173475) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015632,230529) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015632,230597) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015633,259410) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015634,287894) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015634,287953) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015636,344266) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015637,372079) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015637,372168) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015639,427950) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015639,428035) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015640,457093) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015641,484381) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015642,513660) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015643,542422) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015644,570933) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015644,571000) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015646,626967) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015647,655303) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015647,655370) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015648,684262) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015649,712675) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015650,741057) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015651,768724) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015652,795346) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015653,822885) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015654,979773) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015656,9904) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015656,10171) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015658,65403) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015658,65464) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015659,93480) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015661,148505) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015661,148566) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015662,48400) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015663,203841) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015663,203953) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015665,258918) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015666,286790) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015666,286889) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015668,341085) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015668,341132) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015669,369930) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015670,397452) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015671,423826) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015672,450561) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015673,479097) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+EVENT: (9984) (2:1679015673,479147) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 5 jet
+EVENT: (9984) (2:1679015675,535977) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 3 jet
+[WARNING] Failed to recv from port with status -8 and errno 0

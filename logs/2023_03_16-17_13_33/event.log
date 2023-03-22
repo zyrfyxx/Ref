@@ -1,0 +1,2 @@
+2023-03-16 17:14:04,(2(0)-1678958044:10323),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0xe00 dispatched to port 7
+2023-03-16 17:14:04,(2(0)-1678958044:10402),control.START_CONTROL,3584,EventSeverity.ACTIVITY_LO,start control

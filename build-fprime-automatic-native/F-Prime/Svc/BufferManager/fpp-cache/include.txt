@@ -1,0 +1,2 @@
+/home/kokaze/fprime/Svc/BufferManager/Events.fppi
+/home/kokaze/fprime/Svc/BufferManager/Telemetry.fppi

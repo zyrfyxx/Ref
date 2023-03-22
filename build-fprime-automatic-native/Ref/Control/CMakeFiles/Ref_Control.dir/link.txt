@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_Control.a CMakeFiles/Ref_Control.dir/Control.cpp.o CMakeFiles/Ref_Control.dir/CMDEnumAc.cpp.o CMakeFiles/Ref_Control.dir/ControlComponentAc.cpp.o CMakeFiles/Ref_Control.dir/ControlStateEnumAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_Control.a

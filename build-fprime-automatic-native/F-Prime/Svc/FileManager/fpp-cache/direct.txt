@@ -1,0 +1,7 @@
+/home/kokaze/fprime/Fw/Cmd/Cmd.fpp
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Tlm/Tlm.fpp
+/home/kokaze/fprime/Svc/FileManager/Commands.fppi
+/home/kokaze/fprime/Svc/FileManager/Events.fppi
+/home/kokaze/fprime/Svc/FileManager/Telemetry.fppi
+/home/kokaze/fprime/Svc/Ping/Ping.fpp

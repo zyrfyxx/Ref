@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../../lib/Linux/libRef_SignalGen.a"
+  "../../lib/Linux/libRef_SignalGen.pdb"
+  "CMakeFiles/Ref_SignalGen.dir/SignalGen.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalGen.cpp.o.d"
+  "CMakeFiles/Ref_SignalGen.dir/SignalGenComponentAc.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalGenComponentAc.cpp.o.d"
+  "CMakeFiles/Ref_SignalGen.dir/SignalInfoSerializableAc.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalInfoSerializableAc.cpp.o.d"
+  "CMakeFiles/Ref_SignalGen.dir/SignalPairSerializableAc.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalPairSerializableAc.cpp.o.d"
+  "CMakeFiles/Ref_SignalGen.dir/SignalPairSetArrayAc.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalPairSetArrayAc.cpp.o.d"
+  "CMakeFiles/Ref_SignalGen.dir/SignalSetArrayAc.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalSetArrayAc.cpp.o.d"
+  "CMakeFiles/Ref_SignalGen.dir/SignalTypeEnumAc.cpp.o"
+  "CMakeFiles/Ref_SignalGen.dir/SignalTypeEnumAc.cpp.o.d"
+  "SignalGenComponentAc.cpp"
+  "SignalGenComponentAc.hpp"
+  "SignalGenComponentAi.xml"
+  "SignalInfoSerializableAc.cpp"
+  "SignalInfoSerializableAc.hpp"
+  "SignalInfoSerializableAi.xml"
+  "SignalPairSerializableAc.cpp"
+  "SignalPairSerializableAc.hpp"
+  "SignalPairSerializableAi.xml"
+  "SignalPairSetArrayAc.cpp"
+  "SignalPairSetArrayAc.hpp"
+  "SignalPairSetArrayAi.xml"
+  "SignalSetArrayAc.cpp"
+  "SignalSetArrayAc.hpp"
+  "SignalSetArrayAi.xml"
+  "SignalTypeEnumAc.cpp"
+  "SignalTypeEnumAc.hpp"
+  "SignalTypeEnumAi.xml"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Ref_SignalGen.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

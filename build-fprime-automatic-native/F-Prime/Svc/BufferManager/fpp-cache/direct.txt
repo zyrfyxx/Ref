@@ -1,0 +1,7 @@
+/home/kokaze/fprime/Fw/Buffer/Buffer.fpp
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Time/Time.fpp
+/home/kokaze/fprime/Fw/Tlm/Tlm.fpp
+/home/kokaze/fprime/Svc/BufferManager/Events.fppi
+/home/kokaze/fprime/Svc/BufferManager/Telemetry.fppi
+/home/kokaze/fprime/Svc/Sched/Sched.fpp

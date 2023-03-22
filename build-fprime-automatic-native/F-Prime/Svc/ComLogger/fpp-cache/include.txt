@@ -1,0 +1,2 @@
+/home/kokaze/fprime/Svc/ComLogger/Commands.fppi
+/home/kokaze/fprime/Svc/ComLogger/Events.fppi

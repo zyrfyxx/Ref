@@ -1,0 +1,3 @@
+2023-03-16 18:35:18,(2(0)-1678962918:816124),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0xe00 dispatched to port 7
+2023-03-16 18:35:18,(2(0)-1678962918:816181),control.START_CONTROL,3584,EventSeverity.ACTIVITY_LO,start control
+2023-03-16 18:35:19,(2(0)-1678962919:19847),fatalAdapter.AF_ASSERT_0,16896,EventSeverity.FATAL,Assert in file /home/kokaze/fprime/Ref/build-fprime-automatic-native/Ref/ThrDistribute/ThrDistr, line 110

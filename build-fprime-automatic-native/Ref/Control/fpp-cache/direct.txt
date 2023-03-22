@@ -1,0 +1,2 @@
+/home/kokaze/fprime/Fw/Cmd/Cmd.fpp
+/home/kokaze/fprime/Ref/SetSensorState/SetSensorState.fpp

@@ -1,0 +1,5 @@
+/home/kokaze/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/kokaze/fprime/Drv/LinuxSpiDriver/Telemetry.fppi
+/home/kokaze/fprime/Drv/SpiDriverPorts/SpiDriverPorts.fpp
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Tlm/Tlm.fpp

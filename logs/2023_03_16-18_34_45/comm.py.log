@@ -1,0 +1,7 @@
+[2023-03-16 18:34:50,990] [INFO] root: Logging system initialized!
+[2023-03-16 18:34:50,991] [INFO] comm: Starting uplinker/downlinker connecting to FSW using Paired-TCP/UDP@0.0.0.0:50000 with FpFramerDeframer
+[2023-03-16 18:34:50,991] [INFO] gds_sender: Client connected to 127.0.0.1:50050
+[2023-03-16 18:34:50,992] [INFO] udp_handler: Server connected to 0.0.0.0:50000
+[2023-03-16 18:34:51,917] [INFO] tcp_handler: Server connected to 0.0.0.0:50000
+[2023-03-16 18:35:20,199] [WARNING] tcp_handler: Read failure attempting reconnection. ConnectionResetError: [Errno 104] Connection reset by peer
+[2023-03-16 18:39:52,330] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 22] Invalid argument

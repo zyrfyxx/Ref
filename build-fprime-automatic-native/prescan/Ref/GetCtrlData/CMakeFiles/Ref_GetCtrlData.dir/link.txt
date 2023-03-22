@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_GetCtrlData.a CMakeFiles/Ref_GetCtrlData.dir/home/kokaze/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_GetCtrlData.a

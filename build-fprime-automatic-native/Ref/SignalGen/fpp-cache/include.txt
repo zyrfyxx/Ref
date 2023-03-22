@@ -1,0 +1,3 @@
+/home/kokaze/fprime/Ref/SignalGen/Commands.fppi
+/home/kokaze/fprime/Ref/SignalGen/Events.fppi
+/home/kokaze/fprime/Ref/SignalGen/Telemetry.fppi

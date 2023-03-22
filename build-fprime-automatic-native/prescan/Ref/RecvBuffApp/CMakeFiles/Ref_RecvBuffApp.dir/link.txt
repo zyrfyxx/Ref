@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_RecvBuffApp.a CMakeFiles/Ref_RecvBuffApp.dir/home/kokaze/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_RecvBuffApp.a

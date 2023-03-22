@@ -1,0 +1,7 @@
+/home/kokaze/fprime/Drv/DataTypes/DataTypes.fpp
+/home/kokaze/fprime/Fw/Cmd/Cmd.fpp
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Prm/Prm.fpp
+/home/kokaze/fprime/Fw/Time/Time.fpp
+/home/kokaze/fprime/Fw/Tlm/Tlm.fpp
+/home/kokaze/fprime/config/FpConfig.fpp

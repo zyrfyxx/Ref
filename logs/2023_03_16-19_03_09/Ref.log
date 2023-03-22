@@ -1,0 +1,295 @@
+Hit Ctrl-C to quit
+EVENT: (1280) (2:1678964595,170858) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2100 registered to port 0 slot 0
+EVENT: (1280) (2:1678964595,171008) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2101 registered to port 0 slot 1
+EVENT: (1280) (2:1678964595,171037) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2102 registered to port 0 slot 2
+EVENT: (1280) (2:1678964595,171050) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2200 registered to port 1 slot 3
+EVENT: (1280) (2:1678964595,171060) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2201 registered to port 1 slot 4
+EVENT: (1280) (2:1678964595,171071) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2202 registered to port 1 slot 5
+EVENT: (1280) (2:1678964595,171081) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2300 registered to port 2 slot 6
+EVENT: (1280) (2:1678964595,171092) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2301 registered to port 2 slot 7
+EVENT: (1280) (2:1678964595,171103) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2302 registered to port 2 slot 8
+EVENT: (1280) (2:1678964595,171114) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2400 registered to port 3 slot 9
+EVENT: (1280) (2:1678964595,171124) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2401 registered to port 3 slot 10
+EVENT: (1280) (2:1678964595,171135) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2402 registered to port 3 slot 11
+EVENT: (1280) (2:1678964595,171145) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2500 registered to port 4 slot 12
+EVENT: (1280) (2:1678964595,171156) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2501 registered to port 4 slot 13
+EVENT: (1280) (2:1678964595,171166) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2502 registered to port 4 slot 14
+EVENT: (1280) (2:1678964595,171177) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x500 registered to port 5 slot 15
+EVENT: (1280) (2:1678964595,171188) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x501 registered to port 5 slot 16
+EVENT: (1280) (2:1678964595,171236) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x502 registered to port 5 slot 17
+EVENT: (1280) (2:1678964595,171272) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x503 registered to port 5 slot 18
+EVENT: (1280) (2:1678964595,171285) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x600 registered to port 6 slot 19
+EVENT: (1280) (2:1678964595,171295) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x601 registered to port 6 slot 20
+EVENT: (1280) (2:1678964595,171306) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x602 registered to port 6 slot 21
+EVENT: (1280) (2:1678964595,171316) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x603 registered to port 6 slot 22
+EVENT: (1280) (2:1678964595,171326) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x604 registered to port 6 slot 23
+EVENT: (1280) (2:1678964595,171336) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x605 registered to port 6 slot 24
+EVENT: (1280) (2:1678964595,171347) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x606 registered to port 6 slot 25
+EVENT: (1280) (2:1678964595,171357) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x607 registered to port 6 slot 26
+EVENT: (1280) (2:1678964595,171368) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe00 registered to port 7 slot 27
+EVENT: (1280) (2:1678964595,171379) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xe01 registered to port 7 slot 28
+EVENT: (1280) (2:1678964595,171390) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb00 registered to port 8 slot 29
+EVENT: (1280) (2:1678964595,171400) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb02 registered to port 8 slot 30
+EVENT: (1280) (2:1678964595,171410) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xb03 registered to port 8 slot 31
+EVENT: (1280) (2:1678964595,171420) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x700 registered to port 9 slot 32
+EVENT: (1280) (2:1678964595,171431) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x701 registered to port 9 slot 33
+EVENT: (1280) (2:1678964595,171441) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x702 registered to port 9 slot 34
+EVENT: (1280) (2:1678964595,171474) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x800 registered to port 10 slot 35
+EVENT: (1280) (2:1678964595,171486) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x801 registered to port 10 slot 36
+EVENT: (1280) (2:1678964595,171496) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x802 registered to port 10 slot 37
+EVENT: (1280) (2:1678964595,171507) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x803 registered to port 10 slot 38
+EVENT: (1280) (2:1678964595,171517) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x804 registered to port 10 slot 39
+EVENT: (1280) (2:1678964595,171528) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x805 registered to port 10 slot 40
+EVENT: (1280) (2:1678964595,171539) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2000 registered to port 11 slot 41
+EVENT: (1280) (2:1678964595,171557) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2001 registered to port 11 slot 42
+EVENT: (1280) (2:1678964595,171560) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2002 registered to port 11 slot 43
+EVENT: (1280) (2:1678964595,171564) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xa00 registered to port 12 slot 44
+EVENT: (1280) (2:1678964595,171567) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0xd00 registered to port 13 slot 45
+EVENT: (1280) (2:1678964595,171571) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4700 registered to port 14 slot 46
+EVENT: (1280) (2:1678964595,171574) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4701 registered to port 14 slot 47
+EVENT: (1280) (2:1678964595,171577) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4702 registered to port 14 slot 48
+EVENT: (1280) (2:1678964595,171580) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4703 registered to port 14 slot 49
+EVENT: (1280) (2:1678964595,171584) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2600 registered to port 15 slot 50
+EVENT: (1280) (2:1678964595,171587) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2601 registered to port 15 slot 51
+EVENT: (1280) (2:1678964595,171590) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2602 registered to port 15 slot 52
+EVENT: (1280) (2:1678964595,171593) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x2603 registered to port 15 slot 53
+EVENT: (1280) (2:1678964595,171596) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260a registered to port 15 slot 54
+EVENT: (1280) (2:1678964595,171600) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260b registered to port 15 slot 55
+EVENT: (1280) (2:1678964595,171603) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260c registered to port 15 slot 56
+EVENT: (1280) (2:1678964595,171606) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x260d registered to port 15 slot 57
+EVENT: (1280) (2:1678964595,171609) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b00 registered to port 16 slot 58
+EVENT: (1280) (2:1678964595,171612) DIAGNOSTIC: (cmdDisp) OpCodeRegistered : Opcode 0x4b01 registered to port 16 slot 59
+EVENT: (3335) (2:1678964595,171635) ACTIVITY_HI: (prmDb) PrmFileLoadComplete : Parameter file load completed. Read 4 records.
+EVENT: (3328) (2:1678964595,171657) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4700 not found
+EVENT: (3328) (2:1678964595,171664) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x4701 not found
+EVENT: (3328) (2:1678964595,171668) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2600 not found
+EVENT: (3328) (2:1678964595,171671) WARNING_LO: (prmDb) PrmIdNotFound : Parameter ID 0x2601 not found
+[WARNING] High task priority of 140 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_blockDrv. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_chanTlm. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 101 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdDisp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_cmdSeq. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_ReceiveTask. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+Connected to 0.0.0.0:50000 as a tcp client
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_control. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_eventLogger. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileDownlink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileManager. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_fileUplink. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 100 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_pingRcvr. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_prmDb. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 120 being clamped to 99
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup1Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 119 being clamped to 99
+EVENT: (512) (2:1678964595,174597) DIAGNOSTIC: (rateGroup1Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup2Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+[WARNING] High task priority of 118 being clamped to 99
+EVENT: (768) (2:1678964595,174907) DIAGNOSTIC: (rateGroup2Comp) RateGroupStarted : Rate group started.
+pthread_create: Insufficient permissions to create thread. May not set thread priority without permission. Operation not permitted
+[WARNING] Insufficient Permissions:
+[WARNING] Insufficient permissions to set task priority or set task CPU affinity on task TP_rateGroup3Comp. Creating task without priority nor affinity.
+[WARNING] Please use no-argument <component>.start() calls, set priority/affinity to TASK_DEFAULT or ensure user has correct permissions for operating system.
+[WARNING]      Note: future releases of fprime will fail when setting priority/affinity without sufficient permissions 
+
+[WARNING] Task priority set and permissions unavailable. Discarding priority.
+EVENT: (1024) (2:1678964595,175163) DIAGNOSTIC: (rateGroup3Comp) RateGroupStarted : Rate group started.
+EVENT: (1281) (2:1678964608,585023) COMMAND: (cmdDisp) OpCodeDispatched : Opcode 0xe00 dispatched to port 7
+EVENT: (3584) (2:1678964608,585108) ACTIVITY_LO: (control) START_CONTROL : start control
+EVENT: (9984) (2:1678964608,796660) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964609,53013) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964609,181338) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964609,438447) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964609,695502) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964609,951813) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964610,80251) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964610,337132) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964610,593784) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964610,850203) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964611,107403) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964611,365305) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964611,621412) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964611,749619) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964612,6298) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964612,263159) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964612,520092) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964612,905028) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964613,162555) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964613,677299) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964613,804970) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964614,61650) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964614,318248) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964614,574829) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964614,832494) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964614,961105) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964615,217737) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964615,474747) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964615,732789) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964616,117523) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964616,374573) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964616,632048) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964616,889433) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964617,17530) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964617,274343) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964617,788163) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964618,45419) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964618,429768) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964618,687261) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964618,944761) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964619,329048) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964619,585710) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964620,99695) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964620,356703) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964620,485006) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964620,742111) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964620,999256) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964621,255931) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964621,640816) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964621,897764) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964622,154527) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964622,282912) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964622,539854) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964622,797374) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964623,54104) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964623,182270) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964623,439326) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964623,695657) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964624,209370) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964624,337750) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964624,851057) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964625,108310) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964625,364701) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964625,749967) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964626,6222) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964626,520024) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964626,647992) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964626,904615) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964627,161692) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964627,418370) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964627,675152) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964628,60844) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964628,317647) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964628,574363) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964628,830976) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964629,87534) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964629,215976) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964629,472719) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964629,729426) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964629,986275) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964630,243387) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964630,627948) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964630,884494) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964631,141665) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964631,399067) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964631,527522) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964631,784762) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964632,298039) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964632,426093) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964632,940083) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964633,197202) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964633,453712) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964633,710992) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964633,839087) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964634,98065) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964634,612060) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964634,868659) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964634,996952) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964635,254357) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964635,510935) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964635,640044) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964635,896726) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 16 jet
+EVENT: (9984) (2:1678964636,152954) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+EVENT: (9984) (2:1678964636,281298) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 20 jet
+EVENT: (9984) (2:1678964636,538965) ACTIVITY_LO: (thrDistribute) THRUSTER : Thruster 4 jet
+[WARNING] Failed to recv from port with status -8 and errno 0

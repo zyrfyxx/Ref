@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_DoActions.a CMakeFiles/Ref_DoActions.dir/DoActions.cpp.o CMakeFiles/Ref_DoActions.dir/ActionsSerializableAc.cpp.o CMakeFiles/Ref_DoActions.dir/DoActionsComponentAc.cpp.o CMakeFiles/Ref_DoActions.dir/DoActionsPortAc.cpp.o CMakeFiles/Ref_DoActions.dir/ParameterSerializableAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_DoActions.a

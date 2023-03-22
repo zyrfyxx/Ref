@@ -1,0 +1,6 @@
+SignalGenComponentAi.xml
+SignalInfoSerializableAi.xml
+SignalPairSerializableAi.xml
+SignalPairSetArrayAi.xml
+SignalSetArrayAi.xml
+SignalTypeEnumAi.xml

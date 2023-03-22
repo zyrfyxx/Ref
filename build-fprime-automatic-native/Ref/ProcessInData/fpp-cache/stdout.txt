@@ -1,0 +1,7 @@
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Fw/Time/Time.fpp
+/home/kokaze/fprime/Fw/Tlm/Tlm.fpp
+/home/kokaze/fprime/Ref/DataType/DataType.fpp
+/home/kokaze/fprime/Ref/GetCtrlData/GetCtrlData.fpp
+/home/kokaze/fprime/Ref/GetEnvData/GetEnvData.fpp
+/home/kokaze/fprime/config/FpConfig.fpp

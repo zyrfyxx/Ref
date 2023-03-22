@@ -1,0 +1,4 @@
+/home/kokaze/fprime/Drv/GpioDriverPorts/GpioDriverPorts.fpp
+/home/kokaze/fprime/Drv/LinuxGpioDriver/Events.fppi
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Svc/Cycle/Cycle.fpp

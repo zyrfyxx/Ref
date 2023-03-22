@@ -1,0 +1,6 @@
+/home/kokaze/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/kokaze/fprime/Fw/Buffer/Buffer.fpp
+/home/kokaze/fprime/Fw/Cmd/Cmd.fpp
+/home/kokaze/fprime/Fw/Com/Com.fpp
+/home/kokaze/fprime/Svc/Sched/Sched.fpp
+/home/kokaze/fprime/config/FpConfig.fpp

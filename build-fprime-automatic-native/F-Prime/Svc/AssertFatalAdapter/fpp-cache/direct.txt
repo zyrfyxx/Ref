@@ -1,0 +1,2 @@
+/home/kokaze/fprime/Fw/Log/Log.fpp
+/home/kokaze/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi

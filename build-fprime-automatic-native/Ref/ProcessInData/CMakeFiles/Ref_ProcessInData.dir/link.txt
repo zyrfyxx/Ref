@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_ProcessInData.a CMakeFiles/Ref_ProcessInData.dir/ProcessInData.cpp.o CMakeFiles/Ref_ProcessInData.dir/utils.cpp.o CMakeFiles/Ref_ProcessInData.dir/__/tools/Matrix/Matrix.cpp.o CMakeFiles/Ref_ProcessInData.dir/ProcessInDataComponentAc.cpp.o CMakeFiles/Ref_ProcessInData.dir/ProcessInDataPortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_ProcessInData.a

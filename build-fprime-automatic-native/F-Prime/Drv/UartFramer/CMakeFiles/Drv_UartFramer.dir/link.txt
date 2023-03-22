@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libDrv_UartFramer.a CMakeFiles/Drv_UartFramer.dir/UartFramer.cpp.o CMakeFiles/Drv_UartFramer.dir/UartFramerComponentAc.cpp.o
+/usr/bin/ranlib ../../../lib/Linux/libDrv_UartFramer.a

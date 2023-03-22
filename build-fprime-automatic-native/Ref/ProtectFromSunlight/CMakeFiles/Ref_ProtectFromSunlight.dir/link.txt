@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libRef_ProtectFromSunlight.a CMakeFiles/Ref_ProtectFromSunlight.dir/ProtectFromSunlight.cpp.o CMakeFiles/Ref_ProtectFromSunlight.dir/ProtectFromSunlightComponentAc.cpp.o CMakeFiles/Ref_ProtectFromSunlight.dir/ProtectFromSunlightPortAc.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libRef_ProtectFromSunlight.a

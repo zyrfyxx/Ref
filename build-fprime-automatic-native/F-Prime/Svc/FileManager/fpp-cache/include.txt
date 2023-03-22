@@ -1,0 +1,3 @@
+/home/kokaze/fprime/Svc/FileManager/Commands.fppi
+/home/kokaze/fprime/Svc/FileManager/Events.fppi
+/home/kokaze/fprime/Svc/FileManager/Telemetry.fppi
