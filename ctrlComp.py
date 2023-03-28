@@ -28,22 +28,18 @@ def create_ctrl_comps():
     ctrl_comp_list.append(setSensorState_comp)
     ctrl_comp_list.append(doAction)
 
-    sensor_list = []
+    sensor_list = getActionSensor()
     param_list = getActionParam()
     for item in ctrl_comp_list:
         create_folder(item)
         if "GetSensorData" in item:
-            tmp = create_getSensorData_fpp()
-            for item in tmp:
-                sensor_list.append(item)
+            create_getSensorData_fpp(sensor_list)
         elif "ProcessSensorData" in item:
             create_processSensorData_fpp(sensor_list,param_list)
         elif "Control" in item:
             create_control_fpp()
         elif "SetSensorState" in item:
             create_setSensorState_fpp()
-        elif "DoAction" in item:
-            create_doAction_fpp()
         os.chdir(item)
         print("Change dir to: " + os.getcwd())
         create_ctrl_CMakeLists(item)
@@ -67,7 +63,7 @@ def create_doAction_fpp():
     }
 
     @ 定义了调用此组件的端口
-    port """ + comp_name + """ (""" + "\n\t\t" +sensorData[:1].lower() + sensorData[1:] + "_SensorData: " + sensorData + "_SensorData\n\t\t" +""")-> """ + comp_name + """Return
+    port """ + comp_name + """ ()
 
     @ 定义""" + comp_name + """组件,默认为 passive 类型
     passive component """ + comp_name + """{
@@ -89,7 +85,6 @@ def create_doAction_fpp():
             severity activity low \\
             format \"Do """ + comp_name + """\"
 
-        telemetry """ + comp_name.upper() + """RETURN: """ + comp_name + """Return
     }
 }
     """
@@ -115,7 +110,7 @@ def create_setSensorState_fpp():
         comp_fpp = comp_fpp + tmp
 
     comp_fpp = comp_fpp +"""
-    )-> """ + comp_name + """Data
+    )-> """ + "Parameter" + """
 
     @ 定义""" + comp_name + """组件,默认为 passive 类型
     passive component """ + comp_name + """{
@@ -156,40 +151,16 @@ def create_setSensorState_fpp():
     os.chdir('../')
 
 
-def create_getSensorData_fpp():
+def create_getSensorData_fpp(sensor_list):
     ctrl_name = "GetSensorData"
     file_list = os.listdir()
-    sensor_list = []
-    sensor_dict = {}
-    i = 1
-    print()
-    print("Current sensor components: ",end="\n")
-    for item in file_list:
-        if "_Sensor" in item:
-            sensor_dict[i] = item
-            print(str(i) + ": " + item,end="\n")
-            i = i + 1
-    print("Please choose the sensor get component index you use(0 to quit): ")
-    sensor_idx = []
-    flg = int(input())
-    while (flg != 0):
-        if((flg < 1) or (flg > i)):
-            print("No such index!")
-        else:
-            sensor_idx.append(flg)
-        flg = int(input())
-
     
-    
-    for item in sensor_dict:
-        if item in sensor_idx:
-            sensor_list.append(sensor_dict[item])
+    exist_sensor_list = []
 
-    print("Successfully choose sensors: ")
     for item in sensor_list:
-        print(item)
-    print()
-
+        if item in file_list:
+            exist_sensor_list.append(item)
+    
     os.chdir("GetSensorData")
 
     fpp_file = open((ctrl_name + ".fpp"),"w")
@@ -197,7 +168,7 @@ def create_getSensorData_fpp():
     @ 数据采集组件返回的采集值
     @ todo
     struct """ + "SensorData" + """ { """
-    for item in sensor_list:
+    for item in exist_sensor_list:
         tmp = "\n\t\t" + item[:1].lower() + item[1:] + "Data: " + item + "Data"
         ctrl_fpp = ctrl_fpp + tmp
     
@@ -206,7 +177,7 @@ def create_getSensorData_fpp():
 
     @ 定义了调用此组件的端口
     port """ + ctrl_name
-    if len(sensor_list) > 0:
+    if len(exist_sensor_list) > 0:
         ctrl_fpp = ctrl_fpp + " ()-> SensorData"
     else:
         ctrl_fpp = ctrl_fpp + "()"
@@ -220,7 +191,7 @@ def create_getSensorData_fpp():
         @ 调用选择的传感器采集组件
         """
     
-    for item in sensor_list:
+    for item in exist_sensor_list:
         tmp = "output port " + item[:1].lower()+ item[1:] + "Out: " + item + "\n\t\t"
         ctrl_fpp = ctrl_fpp + tmp
 
@@ -249,13 +220,13 @@ def create_getSensorData_fpp():
     """
 
 
-    for item in sensor_list:
+    for item in exist_sensor_list:
         tmp = "instance " + item[:1].lower() + item[1:] + "\n\t"
         ctrl_fpp = ctrl_fpp + tmp
 
     ctrl_fpp = ctrl_fpp + "\n\n\t"
 
-    for item in sensor_list:
+    for item in exist_sensor_list:
         tmp = "getSensorData." + item[:1].lower() + item[1:] + "Out -> " + item[:1].lower() + item[1:] + "." + item[:1].lower() + item[1:] + "In\n\t"
         ctrl_fpp = ctrl_fpp + tmp
 
@@ -263,9 +234,9 @@ def create_getSensorData_fpp():
     fpp_file.close()
     os.chdir("../")
     print("create fpp file: " + ctrl_name + ".fpp")
-    return sensor_list
 
 def create_processSensorData_fpp(sensor_list,param_list):
+    action_list = getEnabledActions()
     os.chdir("ProcessSensorData")
     ctrl_name = "ProcessSensorData"
     fpp_file = open((ctrl_name + ".fpp"),"w")
@@ -274,8 +245,7 @@ def create_processSensorData_fpp(sensor_list,param_list):
     @ todo
     struct """ + "ProcessReturn" + """ {
         parameter: Parameter
-        activatedActions: ActivatedActions
-        deActivatedActions: DeActivatedActions
+        actionValues: ActionValues
     }
 
     struct Parameter {"""
@@ -288,14 +258,14 @@ def create_processSensorData_fpp(sensor_list,param_list):
     sensorProcess_fpp = sensorProcess_fpp + """
     }
 
-    struct ActivatedActions {
-        actions: [10] string
+    struct ActionValues { """
+    for item in action_list:
+        tmp = "\n\t\t" + item[:1].lower() + item[1:] + "_Action: U8" 
+        sensorProcess_fpp = sensorProcess_fpp + tmp
+    sensorProcess_fpp = sensorProcess_fpp + """
     }
 
-    struct DeActivatedActions {
-        actions: [10] string
-    }
-
+    
     @ 定义了调用此组件的端口
     port """ + ctrl_name + """ (
         @ 传递来的全局变量"""
@@ -354,6 +324,7 @@ def create_processSensorData_fpp(sensor_list,param_list):
 
 def create_control_fpp():
     ctrl_name = "Control"
+    enabled_actions = getEnabledActions()
     os.chdir(ctrl_name)
     fpp_file = open((ctrl_name + ".fpp"),"w")
     control_fpp = """module Ref{
@@ -362,9 +333,13 @@ def create_control_fpp():
     @ 定义""" + ctrl_name + """组件,默认为 queued 类型
     queued component """ + ctrl_name + """{
         @ 动作组件调用端口
-        output port setSensorStateOut: SetSensorState 
-        output port doActionOut: DoAction
+        output port setSensorStateOut: SetSensorState""" 
+    
+    for item in enabled_actions:
+        tmp = '\n\t\toutput port ' + item[:1].lower() + item[1:] + "_ActionOut: " + item + "_Action"
+        control_fpp = control_fpp + tmp
 
+    control_fpp = control_fpp + """
         @ 速率组输入端口
         sync input port schedIn: Svc.Sched
 
@@ -388,9 +363,11 @@ def create_control_fpp():
     @ move into Top/topology.fpp and delete this part
     instance control
 
-    control.setSensorStateOut -> setSensorState.setSensorStateIn
-    control.doActionOut -> doAction.doActionIn
-    """
+    control.setSensorStateOut -> setSensorState.setSensorStateIn"""
+    for item in enabled_actions:
+        tmp = "\n\tcontrol." + item[:1].lower() + item[1:] + "_ActionOut -> " + item[:1].lower() + item[1:] +"_Action." + item[:1].lower() + item[1:] + "_ActionIn"
+        control_fpp = control_fpp + tmp 
+
     fpp_file.write(control_fpp)
     fpp_file.close()
     print("create fpp file: " + ctrl_name + ".fpp")

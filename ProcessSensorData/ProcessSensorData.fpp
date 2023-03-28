@@ -3,8 +3,7 @@ module Ref{
     @ todo
     struct ProcessReturn {
         parameter: Parameter
-        activatedActions: ActivatedActions
-        deActivatedActions: DeActivatedActions
+        actionValues: ActionValues
     }
 
     struct Parameter {
@@ -12,26 +11,28 @@ module Ref{
 		proFmSun_Param: ProFmSun_Param
     }
 
-    struct ActivatedActions {
-        actions: [10] string
+    struct ActionValues { 
+		thrDistri_Action: U8
+		proFmSun_Action: U8
     }
 
-    struct DeActivatedActions {
-        actions: [10] string
-    }
-
+    
     @ 定义了调用此组件的端口
     port ProcessSensorData (
         @ 传递来的全局变量
 		ref separateVar: SeparateVar
-		ref modulator: Modulator
-		ref mode: Mode
+		ref sensors: Sensors
+		ref actions: Actions
     )-> ProcessReturn
 
     @ 定义ProcessSensorData组件,默认为 passive 类型
     passive component ProcessSensorData{
         @ 动作组件调用端口
         sync input port processSensorDataIn: ProcessSensorData
+		output port gyro_ProcessOut: Gyro_Process
+		output port dSS_ProcessOut: DSS_Process
+		output port thr_ProcessOut: Thr_Process
+		output port sunlight_ProcessOut: Sunlight_Process
 		
         @ 默认端口
         @ 事件端口
@@ -53,5 +54,13 @@ module Ref{
 
 @ move into Top/topology.fpp and delete this part
     instance processSensorData
-    
+    instance gyro_Process
+	instance dSS_Process
+	instance thr_Process
+	instance sunlight_Process
+	
+	processSensorData.gyro_ProcessOut -> gyro_Process.gyro_ProcessIn
+	processSensorData.dSS_ProcessOut -> dSS_Process.dSS_ProcessIn
+	processSensorData.thr_ProcessOut -> thr_Process.thr_ProcessIn
+	processSensorData.sunlight_ProcessOut -> sunlight_Process.sunlight_ProcessIn
 	

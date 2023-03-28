@@ -4,9 +4,9 @@ module Ref{
     port SetSensorState (
         @ 传递来的全局变量
 		ref separateVar: SeparateVar
-		ref modulator: Modulator
-		ref mode: Mode
-    )-> SetSensorStateData
+		ref sensors: Sensors
+		ref actions: Actions
+    )-> Parameter
 
     @ 定义SetSensorState组件,默认为 passive 类型
     passive component SetSensorState{

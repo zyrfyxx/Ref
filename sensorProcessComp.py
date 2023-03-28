@@ -37,7 +37,8 @@ def create_sensorProcess_fpp(sensorProcess_name):
     @ 数据采集组件返回的采集值
     @ todo
     struct """ + sensorProcess_name + """Return {
-    
+        setDown: U8
+        doValue: U8
     }
 
     @ 定义了调用此组件的端口

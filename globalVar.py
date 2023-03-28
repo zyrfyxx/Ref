@@ -1,7 +1,11 @@
 from folderMethods import *
+from getEnabledActions import *
+from getActionParam import *
 
 def create_global_var():
     file_name = "GlobalVar"
+    sensor_num = len(getActionSensor())
+    action_num = len(getEnabledActions())
     file_list = os.listdir()
     if file_name in file_list:
         print(file_name + " component already define")
@@ -9,7 +13,7 @@ def create_global_var():
     create_folder(file_name)
     os.chdir(file_name)
     print("Change dir to: " + os.getcwd())
-    create_action_fpp(file_name)
+    create_action_fpp(file_name,sensor_num,action_num)
     create_action_CMakeLists(file_name)
     os.chdir("../")
     print("Back to dir: " + os.getcwd())
@@ -27,14 +31,23 @@ register_fprime_module()
     CMake_file.close()
     print("create CMakeLists")
 
-def create_action_fpp(file_name):
+def create_action_fpp(file_name,sensor_num,action_num):
     fpp_file = open((file_name + ".fpp"),"w")
     action_fpp_default = """module Ref{
     @ 自定义全局变量
     @ 单独的变量放置于 separateVar 中
     @ separateVar
-    struct separateVar {
+    struct SeparateVar {
     
+    }
+
+    @ 传感器、传感器处理、动作组件
+    struct Sensors {
+        sensors: [""" + str(sensor_num) +"""] string
+    }
+
+    struct Actions {
+        actions: [""" + str(action_num) +"""] string
     }
 
     @ 需要单独定义的类型定义在下面

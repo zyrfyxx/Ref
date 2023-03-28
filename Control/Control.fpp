@@ -4,9 +4,9 @@ module Ref{
     @ 定义Control组件,默认为 queued 类型
     queued component Control{
         @ 动作组件调用端口
-        output port setSensorStateOut: SetSensorState 
-        output port doActionOut: DoAction
-
+        output port setSensorStateOut: SetSensorState
+		output port thrDistri_ActionOut: ThrDistri_Action
+		output port proFmSun_ActionOut: ProFmSun_Action
         @ 速率组输入端口
         sync input port schedIn: Svc.Sched
 
@@ -31,5 +31,5 @@ module Ref{
     instance control
 
     control.setSensorStateOut -> setSensorState.setSensorStateIn
-    control.doActionOut -> doAction.doActionIn
-    
+	control.thrDistri_ActionOut -> thrDistri_Action.thrDistri_ActionIn
+	control.proFmSun_ActionOut -> proFmSun_Action.proFmSun_ActionIn

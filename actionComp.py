@@ -13,6 +13,7 @@ def create_action_comp(action_name):
     create_action_fpp(action_name)
     create_action_cpp(action_name)
     create_action_CMakeLists(action_name)
+    create_config()
     os.chdir("../")
     print("Back to dir: " + os.getcwd())
     print("--- create end ---")
@@ -74,6 +75,15 @@ def create_action_cpp(action_name):
     cpp_file.close()
     print("create cpp file: " + action_name + ".cpp")
 
+
+def create_config():
+    cfg_file = open("config","w")
+    cfg_ctn = """#为此组件提供数据的传感器组,用空格分隔，如：
+#Sensors: sensor1 sensor2 ...
+    Sensors: """
+    cfg_file.write(cfg_ctn)
+    cfg_file.close()
+    print("create config file")
 
 
 
