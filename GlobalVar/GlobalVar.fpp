@@ -6,14 +6,6 @@ module Ref{
     
     }
 
-    @ 传感器、传感器处理、动作组件
-    struct Sensors {
-        sensors: [4] string
-    }
-
-    struct Actions {
-        actions: [2] string
-    }
 
     @ 需要单独定义的类型定义在下面
     @ type define

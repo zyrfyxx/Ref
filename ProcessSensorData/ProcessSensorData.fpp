@@ -21,8 +21,10 @@ module Ref{
     port ProcessSensorData (
         @ 传递来的全局变量
 		ref separateVar: SeparateVar
-		ref sensors: Sensors
-		ref actions: Actions
+		gyro_Sensor: Gyro_Sensor
+		dSS_Sensor: DSS_Sensor
+		thr_Sensor: Thr_Sensor
+		sunlight_Sensor: Sunlight_Sensor
     )-> ProcessReturn
 
     @ 定义ProcessSensorData组件,默认为 passive 类型

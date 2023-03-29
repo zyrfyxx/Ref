@@ -41,14 +41,6 @@ def create_action_fpp(file_name,sensor_num,action_num):
     
     }
 
-    @ 传感器、传感器处理、动作组件
-    struct Sensors {
-        sensors: [""" + str(sensor_num) +"""] string
-    }
-
-    struct Actions {
-        actions: [""" + str(action_num) +"""] string
-    }
 
     @ 需要单独定义的类型定义在下面
     @ type define

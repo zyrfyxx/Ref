@@ -274,6 +274,10 @@ def create_processSensorData_fpp(sensor_list,param_list):
     for item in global_list:
         tmp = "\n\t\tref " + item[:1].lower() + item[1:] + ": " + item
         sensorProcess_fpp = sensorProcess_fpp + tmp
+
+    for item in sensor_list:
+        tmp = "\n\t\t" + item[:1].lower() + item[1:] + ": " + item
+        sensorProcess_fpp = sensorProcess_fpp + tmp
     
     sensorProcess_fpp = sensorProcess_fpp +"""
     )-> """ + "ProcessReturn" + """

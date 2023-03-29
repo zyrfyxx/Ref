@@ -2,7 +2,7 @@ module Ref{
     @ 数据采集组件返回的采集值
     @ todo
     struct Gyro_ProcessReturn {
-        setDown: U8
+        combineProcess: U8
         doValue: U8
     }
 

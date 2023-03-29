@@ -4,8 +4,6 @@ module Ref{
     port SetSensorState (
         @ 传递来的全局变量
 		ref separateVar: SeparateVar
-		ref sensors: Sensors
-		ref actions: Actions
     )-> Parameter
 
     @ 定义SetSensorState组件,默认为 passive 类型
